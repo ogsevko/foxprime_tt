@@ -1,7 +1,13 @@
 <template>
-  <div />
+  <AddCity />
 </template>
 
 <script>
-export default {}
+import AddCity from '../components/AddCity'
+
+export default {
+  components: {
+    AddCity
+  }
+}
 </script>
