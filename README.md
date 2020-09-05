@@ -1,6 +1,9 @@
 # weather_app
 This is a weather application made as a test task for Foxprime
 
+## Tech stack
+Nuxt, Vuetify, Vue, HTML, CSS, JavaScript
+
 ## Build Setup
 
 ```bash
