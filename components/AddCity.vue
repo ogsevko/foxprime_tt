@@ -2,9 +2,9 @@
   <v-input>
     <v-text-field
       autofocus="true"
-      outlined="true"
-      rounded="true"
-      full-width="false"
+      outlined
+      rounded
+      single-line
     />
   </v-input>
 </template>
@@ -14,11 +14,3 @@ export default {
   name: 'AddCity'
 }
 </script>
-
-<style scoped lang="scss">
-.city {
-  &__input {
-    width: 45%;
-  }
-}
-</style>

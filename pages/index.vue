@@ -1,13 +1,13 @@
 <template>
-  <AddCity />
+  <App />
 </template>
 
 <script>
-import AddCity from '../components/AddCity'
+import App from '../components/App'
 
 export default {
   components: {
-    AddCity
+    App
   }
 }
 </script>
